@@ -1,0 +1,18 @@
+disclaimer - not serious
+infuriating - doesnt make sense
+especially in NY
+embarked on a mission - to determine the cost of an asshole that is - the incremental cost of people not
+experimental layout
+discussion/analysis
+
+but people are rationale
+
+    (+ P(seat) * value of seat) --> propose that this is low at rush hour
+    (+ P(miss) * cost missing) -->
+    >
+    (time with assholes - time without assholes)
+
+https://plot.ly/javascript/getting-started/
+
+subwayasshole
+subway (pow no)
